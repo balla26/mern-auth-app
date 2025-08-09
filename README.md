@@ -1,6 +1,6 @@
 # MERN Auth App
 
-A simple MERN (MongoDB, Express, React, Node.js) authentication application.
+MERN (MongoDB, Express, React, Node.js) authentication application.
 
 ## Features
 - User signup and login
