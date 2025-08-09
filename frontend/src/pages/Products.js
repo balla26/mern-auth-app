@@ -6,7 +6,7 @@ function Products() {
 
   const fetchProducts = async () => {
     try {
-      const url = "http://localhost:8080/products";
+      const url = "https://mern-auth-app-api-delta.vercel.app/products";
       const headers = {
         headers: {
           Authorization: localStorage.getItem("jwtToken"),
